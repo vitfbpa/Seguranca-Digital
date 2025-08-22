@@ -8,7 +8,7 @@
 
 - DevSecOps (Development Secutity and Operations)
  
-- 200.132.59.110 ( http://www.minhaufn.ufn.edu.br )
+- 200.132.59.110 ( http://www.minha.ufn.edu.br )
 
 - Camada 7 ( Aplicação )
 
